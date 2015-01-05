@@ -1,0 +1,4 @@
+geopy==1.7.0
+lxml==3.4.1
+simplekml==1.2.5
+wsgiref==0.1.2
