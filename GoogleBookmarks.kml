@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>Cantina</name>
+            <Point id="geom_0">
+                <coordinates>-73.990391,40.66874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Xi'an Famous Foods</name>
+            <Point id="geom_1">
+                <coordinates>-73.998229,40.715391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>The Jeffrey Craft Beer &amp; Bites</name>
+            <Point id="geom_2">
+                <coordinates>-73.962992,40.761109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>McSorley's Old Ale House</name>
+            <Point id="geom_3">
+                <coordinates>-73.989647,40.728829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>Mehanata</name>
+            <Point id="geom_4">
+                <coordinates>-73.988917,40.719485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>Brooklyn Brewery</name>
+            <Point id="geom_5">
+                <coordinates>-73.957376,40.721447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>Girasol Baker</name>
+            <Point id="geom_6">
+                <coordinates>-73.993496,40.661547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>Junoon</name>
+            <Point id="geomW7">
+                <coordinates>-73.99089,40.743112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>The Bar Downstairs</name>
+            <Point id="geom_8">
+                <coordinates>-73.981105,40.752878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>Ramona</name>
+            <Point id="geom_9">
+                <coordinates>-73.957837,40.730071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>Vivi Bubble Tea</name>
+            <Point id="geom_10">
+                <coordinates>-73.997542,40.715089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>Elsa</name>
+            <Point id="geom_11">
+                <coordinates>-73.982218,40.722472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>Fig. 19</name>
+            <Point id="geom_12">
+                <coordinates>-73.993372,40.719464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>Brandy's Piano Bar</name>
+            <Point id="geom_13">
+                <coordinates>-73.953526,40.777038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>Cafe Mogador</name>
+            <Point id="geom_14">
+                <coordinates>-73.98437,40.727417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Beauty &amp; Essex</name>
+            <Point id="geom_15">
+                <coordinates>-73.986922,40.720468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>Azuri Cafe</name>
+            <Point id="geom_16">
+                <coordinates>-73.99076,40.765344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>Arcade Bakery</name>
+            <Point id="geom_17">
+                <coordinates>-74.007068,40.717038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>Mamoun's</name>
+            <Point id="geom_18">
+                <coordinates>-73.988822,40.728936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>Pio Pio</name>
+            <Point id="geom_19">
+                <coordinates>-73.994478,40.760528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>The Trash Bar</name>
+            <Point id="geom_20">
+                <coordinates>-73.958791,40.713334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>Terra Tribeca</name>
+            <Point id="geom_21">
+                <coordinates>-74.006516,40.7193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>Muchmore's</name>
+            <Point id="geom_22">
+                <coordinates>-73.952947,40.716532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>Black Hound Bar &amp; Lounge</name>
+            <Point id="geom_23">
+                <coordinates>-74.016478,40.710336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>Sake Bar Decibel</name>
+            <Point id="geom_24">
+                <coordinates>-73.98779,40.729283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>White Bear</name>
+            <Point id="geom_25">
+                <coordinates>-73.83163,40.758756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>Prosperity Dumpling</name>
+            <Point id="geom_26">
+                <coordinates>-73.992858,40.715888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>Jones Wood Foundry</name>
+            <Point id="geom_27">
+                <coordinates>-73.953562,40.770368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>Pommes Frites</name>
+            <Point id="geom_28">
+                <coordinates>-73.988191,40.728288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>Les Halles</name>
+            <Point id="geom_29">
+                <coordinates>-74.008843,40.710059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>Congee Bowery</name>
+            <Point id="geom_30">
+                <coordinates>-73.99346,40.721232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>Amity Hall</name>
+            <Point id="geom_31">
+                <coordinates>-73.998865,40.729691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>Flatbush Farm</name>
+            <Point id="geom_32">
+                <coordinates>-73.974685,40.67977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>Num Pang</name>
+            <Point id="geom_33">
+                <coordinates>-73.993036,40.734241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>Saigon Market</name>
+            <Point id="geom_34">
+                <coordinates>-73.992908,40.733537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>The Owl's Head</name>
+            <Point id="geom_35">
+                <coordinates>-74.02247,40.630554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>Joe's Ginger</name>
+            <Point id="geom_36">
+                <coordinates>-73.998359,40.714807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>Solas</name>
+            <Point id="geom_37">
+                <coordinates>-73.988112,40.729362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>Cafe Himalaya</name>
+            <Point id="geom_38">
+                <coordinates>-73.98798,40.723165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>Kaffe 1668</name>
+            <Point id="geom_39">
+                <coordinates>-74.011045,40.715104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>Botanica</name>
+            <Point id="geom_40">
+                <coordinates>-74.015395,40.67723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>Keens Steakhouse</name>
+            <Point id="geom_41">
+                <coordinates>-73.986428,40.750749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>Iron Horse</name>
+            <Point id="geom_42">
+                <coordinates>-77.02168,38.89635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>Jing Fong</name>
+            <Point id="geom_43">
+                <coordinates>-73.997171,40.715972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>Apotheke</name>
+            <Point id="geom_44">
+                <coordinates>-73.998174,40.714341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>Potjanee</name>
+            <Point id="geom_45">
+                <coordinates>-74.003434,40.729858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>Lederhosen</name>
+            <Point id="geom_46">
+                <coordinates>-74.004475,40.732883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>Big Daddy's Gramercy Park</name>
+            <Point id="geom_47">
+                <coordinates>-73.987763,40.737827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>Bierkraft</name>
+            <Point id="geom_48">
+                <coordinates>-73.979994,40.676773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>Sakagura</name>
+            <Point id="geom_49">
+                <coordinates>-73.973077,40.751304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>Frank</name>
+            <Point id="geom_50">
+                <coordinates>-73.9887,40.726861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>Awadh</name>
+            <Point id="geom_51">
+                <coordinates>-73.970741,40.79559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>Churrascaria Plataforma</name>
+            <Point id="geom_52">
+                <coordinates>-73.987647,40.761997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>Proletariat</name>
+            <Point id="geom_53">
+                <coordinates>-73.984672,40.727106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>Dive Bar</name>
+            <Point id="geom_54">
+                <coordinates>-73.970817,40.793984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>New WonJo</name>
+            <Point id="geom_55">
+                <coordinates>-73.986673,40.74786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>Celeste</name>
+            <Point id="geom_56">
+                <coordinates>-73.976076,40.786691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>Kanan Indian Restaurant</name>
+            <Point id="geom_57">
+                <coordinates>-73.990972,40.671833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>Art Bar</name>
+            <Point id="geom_58">
+                <coordinates>-74.003504,40.738484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>Tamarind Tribeca</name>
+            <Point id="geom_59">
+                <coordinates>-74.009026,40.719107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>Le Souk Harem</name>
+            <Point id="geom_60">
+                <coordinates>-73.999303,40.727945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>The Iron Horse NYC</name>
+            <Point id="geom_61">
+                <coordinates>-74.004939,40.708142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>Rohm Thai</name>
+            <Point id="geom_62">
+                <coordinates>-73.98908,40.73903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>Burp Castle</name>
+            <Point id="geom_63">
+                <coordinates>-73.988556,40.728429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>Barcade</name>
+            <Point id="geom_64">
+                <coordinates>-73.951074,40.71204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>26 Seats Bistro</name>
+            <Point id="geom_65">
+                <coordinates>-73.979931,40.727267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>Fette Sau</name>
+            <Point id="geom_66">
+                <coordinates>-73.956318,40.713968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>Maison Premiere</name>
+            <Point id="geom_67">
+                <coordinates>-73.961715,40.714269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>Tacos Nuevos Mexico</name>
+            <Point id="geom_68">
+                <coordinates>-73.987462,40.66749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>Pravda</name>
+            <Point id="geom_69">
+                <coordinates>-73.996004,40.723674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>Top of the Standard</name>
+            <Point id="geom_70">
+                <coordinates>-74.007859,40.740802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>Ghenet</name>
+            <Point id="geom_71">
+                <coordinates>-73.981528,40.679104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>Crosby Street Hotel</name>
+            <Point id="geom_72">
+                <coordinates>-73.99741,40.723033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>Xixa</name>
+            <Point id="geom_73">
+                <coordinates>-73.958512,40.710407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>Employees Only</name>
+            <Point id="geom_74">
+                <coordinates>-74.006149,40.733433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>Larry Lawrence</name>
+            <Point id="geom_75">
+                <coordinates>-73.957305,40.713061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>Greenwood Park</name>
+            <Point id="geom_76">
+                <coordinates>-73.987856,40.659362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>Angel's Share</name>
+            <Point id="geom_77">
+                <coordinates>-73.98912,40.729724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>Roebling Inn</name>
+            <Point id="geom_78">
+                <coordinates>-73.997051,40.691168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>Milon</name>
+            <Point id="geom_79">
+                <coordinates>-73.986587,40.726291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>The Penrose</name>
+            <Point id="geom_80">
+                <coordinates>-73.953121,40.775443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>Terakawa Ramen</name>
+            <Point id="geom_81">
+                <coordinates>-73.98508,40.739316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>Bombay Duck Co.</name>
+            <Point id="geom_82">
+                <coordinates>-74.001512,40.729201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>Ping's Seafood</name>
+            <Point id="geom_83">
+                <coordinates>-73.998655,40.7144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>Fogo de Chao Brazilian Steakhouse</name>
+            <Point id="geom_84">
+                <coordinates>-73.978068,40.761086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>The Kati Roll Company</name>
+            <Point id="geom_85">
+                <coordinates>-73.984576,40.752815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>Radegast Hall &amp; Biergarten</name>
+            <Point id="geom_86">
+                <coordinates>-73.961441,40.716661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>South Brooklyn Pizza</name>
+            <Point id="geom_87">
+                <coordinates>-73.997978,40.677568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>Mast Brothers Chocolate</name>
+            <Point id="geom_88">
+                <coordinates>-73.961629,40.716674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>Enoteca Maria</name>
+            <Point id="geom_89">
+                <coordinates>-74.077347,40.642054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>Kuma Inn</name>
+            <Point id="geom_90">
+                <coordinates>-73.98888,40.719469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>Mamoun's</name>
+            <Point id="geom_91">
+                <coordinates>-74.000436,40.730257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>Rainbow</name>
+            <Point id="geom_92">
+                <coordinates>-73.991029,40.737261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>Osteria Morini</name>
+            <Point id="geom_93">
+                <coordinates>-73.997721,40.721962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>Hudson Bar And Books</name>
+            <Point id="geom_94">
+                <coordinates>-74.005335,40.738603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>Professor Thom's</name>
+            <Point id="geom_95">
+                <coordinates>-73.98548,40.732048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>The Kati Roll Company</name>
+            <Point id="geom_96">
+                <coordinates>-73.968139,40.757334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>Joe Coffee</name>
+            <Point id="geom_97">
+                <coordinates>-73.993275,40.735174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>Woorijip Korean Restaurant</name>
+            <Point id="geom_98">
+                <coordinates>-73.986505,40.747405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>Rhong-Tiam</name>
+            <Point id="geom_99">
+                <coordinates>-73.988475,40.739627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>Argo Tea</name>
+            <Point id="geom_100">
+                <coordinates>-73.993153,40.733093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>Der Kommissar</name>
+            <Point id="geom_101">
+                <coordinates>-73.989281,40.66536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>Flatiron Lounge</name>
+            <Point id="geom_102">
+                <coordinates>-73.993198,40.740038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>Traif</name>
+            <Point id="geom_103">
+                <coordinates>-73.958938,40.710555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>Vol de Nuit</name>
+            <Point id="geom_104">
+                <coordinates>-74.000601,40.731373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>Steve's Authentic Key Lime Pies</name>
+            <Point id="geom_105">
+                <coordinates>-74.018403,40.677619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>Birds &amp; Bubbles</name>
+            <Point id="geom_106">
+                <coordinates>-73.992654,40.718244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>Seoul Garden</name>
+            <Point id="geom_107">
+                <coordinates>-73.987285,40.747692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>Zenkichi</name>
+            <Point id="geom_108">
+                <coordinates>-73.960848,40.718977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>Jimmy's Corner</name>
+            <Point id="geom_109">
+                <coordinates>-73.984755,40.756654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>Jack's Wife Freda</name>
+            <Point id="geom_110">
+                <coordinates>-73.997562,40.722146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>Spuyten Duyvil</name>
+            <Point id="geom_111">
+                <coordinates>-73.955982,40.714268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>Beecher's Handmade Cheese - New York</name>
+            <Point id="geom_112">
+                <coordinates>-73.989486,40.738844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>Coco 66</name>
+            <Point id="geom_113">
+                <coordinates>-73.958348,40.729636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>Otafuku</name>
+            <Point id="geom_114">
+                <coordinates>-73.988289,40.729492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>The Press Lounge</name>
+            <Point id="geom_115">
+                <coordinates>-73.995884,40.764431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>Schnitzel Haus</name>
+            <Point id="geom_116">
+                <coordinates>-74.02196,40.630453,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
