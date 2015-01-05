@@ -14,9 +14,8 @@ Usage
 
 * Export your bookmarks: https://www.google.com/bookmarks/bookmarks.html?hl=en
 * Run this script with the downloaded GoogleBookmarks.html on its directory
-* Read the output
+* Read the output (or use `tee` to make a log file)
 
 ```
-python stars-to-addresses.py > GoogleBookmarks.log &
-tail -F GoogleBookmarks.log
+python stars-to-addresses.py 2>&1 | tee GoogleBookmarks.log
 ```
