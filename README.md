@@ -9,6 +9,11 @@ Dependencies
 * geopy
 * simplekml
 
+Warning
+-------
+
+The script will break on unicode chars in the bookmark's name. This is due to a bug in simplekml that I haven't tracked down yet.
+
 Usage
 -----
 
